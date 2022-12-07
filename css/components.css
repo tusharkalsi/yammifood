@@ -1,0 +1,45 @@
+.body {background-color: #343a40;margin: 0px;padding: 0px;}
+.css{
+    height: 390px;
+    width: 100%;
+    background-color:rgb(46, 162, 250);
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.css1{
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    font-size:34px;
+    font-family:-apple-system;
+    font-weight: 900;
+    letter-spacing: 2;
+    color: #343a40;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.css2{
+    height: 50px;
+    width: 100%;
+    text-align: center;
+     color:gainsboro;
+     font-size: 18px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+    }
+
+.css2 a{
+    color:rgb(0, 20, 80) ;
+    text-decoration: none;
+}
+
+.css2 a:hover{
+    color:rgb(110, 192, 255) ;
+    text-decoration: none;
+}
